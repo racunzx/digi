@@ -42,7 +42,7 @@ curl --request POST \
   --header 'User-Agent: okhttp/3.12.1' \
   --cookie 'dtCookie=7%24142BE649ABB3B3A9B91F2EC9C9C6D4E0; sid=s%253A822K4_WDvAEEykcaORev9EvHNddCU9KK.oiPhRWTA6hUYg%252B3f6VgGzdQ9GlUZvdzm1u6ACGfShkw' \
   --data '{
-  "offerId": "90008300",
+  "offerId": "90009394",
   "isFreebie": false,
   "force": false,
   "price": "0.00"
@@ -51,4 +51,4 @@ curl --request POST \
 echo ""
 echo ""
 echo ""
-echo "Successfull Subs Unlimited RM1 to $diginum"
+echo "Successfull Subs Free Unlimited call to $diginum"

@@ -2,13 +2,13 @@
 echo ''
 clear
 echo ''
-echo '            _____ ___    __  ____    ______  _   __         '
-echo '           / ___//   |  /  |/  / |  / / __ \/ | / /         '
-echo '           \__ \/ /| | / /|_/ /| | / / /_/ /  |/ /          '
-echo '          ___/ / ___ |/ /  / / | |/ / ____/ /|  /           '
-echo '         /____/_/  |_/_/  /_/  |___/_/   /_/ |_/            '
+echo '       ____    _    ____ ____ _____ ____  _   _ __  __  '
+echo '      / ___|  / \  / ___/ ___|_   _|  _ \| | | |  \/  | '
+echo '     | |  _  / _ \ \___ \___ \ | | | |_) | | | | |\/| | '
+echo '     | |_| |/ ___ \ ___) |__) || | |  _ <| |_| | |  | | '
+echo '      \____/_/   \_\____/____/ |_| |_| \_\\___/|_|  |_| '
 echo ''
-echo '                  Telegram SAMVPN @sam_sfx                  '
+echo '                  Telegram Gasstrum @gasstrum                  '
 echo ''
 echo ''
 echo '                       Tunggu 5 Saat!                       '
@@ -30,7 +30,7 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 IZIN=$( curl https://raw.githubusercontent.com/Gasstrum/digi/main/spam | grep $MYIP )
 if [ $MYIP = $IZIN ]; then
 clear
-echo -e "${green}Tahniah! Anda Dibenarkan menggunakan SAMVPN...${NC}"
+echo -e "${green}Tahniah! Anda Dibenarkan menggunakan Gasstrum...${NC}"
 sleep 5
 else
 clear
@@ -39,7 +39,7 @@ echo '                            ...                               '
 echo '        Anda Tidak Dibenarkan Menggunakan Script ini!         '
 echo '                            ...                               '
 echo '    Hubungi Saya di Telegram Untuk Mendapatkan Kebenaran!     '
-echo '                        t.me/sam_sfx     '
+echo '                        t.me/gasstrum     '
 sleep 20
 exit 0
 fi
@@ -71,6 +71,7 @@ wget -O extend "https://raw.githubusercontent.com/Gasstrum/digi/main/extend.sh"
 wget -O unlimited-1 "https://raw.githubusercontent.com/Gasstrum/digi/main/unlimited-1.sh"
 wget -O unlimited-35 "https://raw.githubusercontent.com/Gasstrum/digi/main/unlimited-35.sh"
 wget -O spam "https://raw.githubusercontent.com/Gasstrum/digi/main/spam.sh"
+wget -O freeunlimited-call "https://raw.githubusercontent.com/Gasstrum/digi/main/freeunlimited-call.sh"
 chmod +x digi
 chmod +x 3gb
 chmod +x 6gb
@@ -80,3 +81,4 @@ chmod +x extend
 chmod +x unlimited-1
 chmod +x unlimited-35
 chmod +x spam
+chmod +x freeunlimited-call
