@@ -30,10 +30,11 @@ exit 0
 fi
 
 clear
+read -p "Berapa loop : " loop
 read -p "Salin SSI : " cookie
 
 # Send 2gb
-curl --request POST \
+for ((i=1;i<=$loop;i++)); do curl --request POST \
   --url https://mydigiapp.digi.com.my/api/addons/subscribe \
   --header 'Accept: application/json' \
   --header 'Content-Type: application/json' \
@@ -47,8 +48,5 @@ curl --request POST \
   "force": false,
   "price": "0.00"
 }'
-
-echo ""
-echo ""
-echo ""
-echo "Successfull Subs FREE 2GB to $diginum"
+sleep 20
+done

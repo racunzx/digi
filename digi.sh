@@ -13,14 +13,12 @@ echo -e "\e[94m    '----------------------------------------------------'    "
 echo -e "\e[0m                                                               "
 echo -e ""
 echo -e "\e[1;31m* [1]\e[0m \e[1;32m: Get SSI\e[0m"
-echo -e "\e[1;31m* [2]\e[0m \e[1;32m: Free 3GB\e[0m"
-echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Free 2GB\e[0m"
-echo -e "\e[1;31m* [4]\e[0m \e[1;32m: Free 6GB\e[0m"
-echo -e "\e[1;31m* [5]\e[0m \e[1;32m: Free 10gb\e[0m"
+echo -e "\e[1;31m* [2]\e[0m \e[1;32m: Spam 3GB\e[0m"
+echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Spam 2GB\e[0m"
+echo -e "\e[1;31m* [4]\e[0m \e[1;32m: Spam 6GB\e[0m"
+echo -e "\e[1;31m* [5]\e[0m \e[1;32m: Spam 10gb\e[0m"
 echo -e "\e[1;31m* [6]\e[0m \e[1;32m: Unlimited RM1\e[0m"
 echo -e "\e[1;31m* [7]\e[0m \e[1;32m: Extend 365Days\e[0m"
-echo -e "\e[1;31m* [8]\e[0m \e[1;32m: SPAM KOUTA (10GB)\e[0m"
-echo -e "\e[1;31m* [9]\e[0m \e[1;32m: Free 5GB\e[0m"
 echo -e ""
 echo -e ""
 read -p "        Select From Options [1-9 or x]: " digi
@@ -46,12 +44,6 @@ unlimited-1
 ;;
 7)
 extend
-;;
-8)
-spam
-;;
-9)
-5gb
 ;;
 x)
 menu
