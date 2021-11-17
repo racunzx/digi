@@ -65,16 +65,16 @@ cd /usr/bin
 wget -O digi "https://raw.githubusercontent.com/Gasstrum/digi/main/digi.sh"
 wget -O 3gb "https://raw.githubusercontent.com/Gasstrum/digi/main/3gb.sh"
 wget -O 6gb "https://raw.githubusercontent.com/Gasstrum/digi/main/6gb.sh"
-wget -O cookie "https://raw.githubusercontent.com/Gasstrum/digi/main/cookie.sh"
+wget -O 10gb "https://raw.githubusercontent.com/Gasstrum/digi/main/10gb.sh"
 wget -O 2gb "https://raw.githubusercontent.com/Gasstrum/digi/main/2gb.sh"
+wget -O cookie "https://raw.githubusercontent.com/Gasstrum/digi/main/cookie.sh"
 wget -O extend "https://raw.githubusercontent.com/Gasstrum/digi/main/extend.sh"
 wget -O unlimited-1 "https://raw.githubusercontent.com/Gasstrum/digi/main/unlimited-1.sh"
-wget -O 10gb "https://raw.githubusercontent.com/Gasstrum/digi/main/10gb.sh"
 chmod +x digi
 chmod +x 3gb
 chmod +x 6gb
-chmod +x cookie
 chmod +x 2gb
+chmod +x 10gb
+chmod +x cookie
 chmod +x extend
 chmod +x unlimited-1
-chmod +x 10gb
