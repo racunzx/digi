@@ -32,7 +32,7 @@ fi
 clear
 read -p "Salin SSI : " cookie
 
-# Send 3gb
+# Send 10gb
 curl --request POST \
   --url https://mydigiapp.digi.com.my/api/addons/subscribe \
   --header 'Accept: application/json' \
@@ -42,7 +42,7 @@ curl --request POST \
   --header 'User-Agent: okhttp/3.12.1' \
   --cookie 'dtCookie=7%24142BE649ABB3B3A9B91F2EC9C9C6D4E0; sid=s%253A822K4_WDvAEEykcaORev9EvHNddCU9KK.oiPhRWTA6hUYg%252B3f6VgGzdQ9GlUZvdzm1u6ACGfShkw' \
   --data '{
-  "offerId": "90008074",
+  "offerId": "90008135",
   "isFreebie": false,
   "force": false,
   "price": "0.00"
@@ -51,4 +51,4 @@ curl --request POST \
 echo ""
 echo ""
 echo ""
-echo "Successfull Subs FREE 3GB to $diginum"
+echo "Successfull Subs FREE 10GB to $diginum"
