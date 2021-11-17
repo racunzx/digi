@@ -23,7 +23,7 @@ echo -e "\e[1;31m* [8]\e[0m \e[1;32m: SPAM KOUTA (10GB)\e[0m"
 echo -e "\e[1;31m* [9]\e[0m \e[1;32m: Free 5GB\e[0m"
 echo -e ""
 echo -e ""
-read -p "        Select From Options [1-8 or x]: " digi
+read -p "        Select From Options [1-9 or x]: " digi
 echo -e ""
 case $digi in
 1)
