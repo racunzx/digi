@@ -30,7 +30,7 @@ exit 0
 fi
 
 clear
-{rm -rf install.sh}
+rm -rf install.sh
 
 sleep 5
 done
