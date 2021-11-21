@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo -e "\e[93m               Autoscript By GASSTRUM              "
+echo -e "\e[93m              Autoscript By GASSTRUM              "
 echo -e "\e[92m        __  __ _____ _   _ _____ ___  ____       "
 echo -e "\e[92m        |  \/  | ____| \ | |_   _/ _ \|  _ \      "
 echo -e "\e[92m        | |\/| |  _| |  \| | | || | | | |_) |     "
@@ -8,7 +8,7 @@ echo -e "\e[92m        | |  | | |___| |\  | | || |_| |  _ <      "
 echo -e "\e[92m        |_|  |_|_____|_| \_| |_| \___/|_| \_\     "
 echo -e "\e[0m                                                       "
 echo -e "\e[94m      ============================================    "
-echo -e "\e[94m                  SPAM LANGGANAN DIGI    "
+echo -e "\e[94m                 SPAM LANGGANAN DIGI    "
 echo -e "\e[94m      ============================================  "
 echo -e "\e[0m                                                               "
 echo -e ""
