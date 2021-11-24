@@ -20,13 +20,15 @@ echo -e "\e[1;31m* [1]\e[0m \e[1;32m: Get SSI\e[0m"
 echo -e "\e[1;31m* [2]\e[0m \e[1;32m: Spam 500mb(1day)\e[0m"
 echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Unlimited 1jam(3mbps)\e[0m"
 echo -e ""
+read -p "        Select From Options [1-3 or x]: " digi
+echo -e ""
 echo -e "\e[94m                  | UNINSTALL/UPDATE SCRIPT |   "
 echo -e ""
 echo -e "\e[1;31m* [01]\e[0m \e[1;32m: Update Script\e[0m"             
 echo -e "\e[1;31m* [02]\e[0m \e[1;32m: Uninstall Script\e[0m"             
 echo -e ""
 echo -e ""
-read -p "        Select From Options [1-3 or 01-02]: " digi
+echo -e " "        Select From Options [01-02 or x]: " digi
 echo -e ""
 case $digi in
 1)
