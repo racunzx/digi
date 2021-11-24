@@ -1,6 +1,13 @@
 #!/bin/bash
 echo ''
 clear
+echo '============================================='
+echo '          Sila Tunggu sebentar '
+echo 'Process Update & Upgrade Sedang Dijalankan '
+echo '============================================='
+sleep 2
+apt update && apt upgrade -y
+clear
 echo ''
 echo '       ____    _    ____ ____ _____ ____  _   _ __  __  '
 echo '      / ___|  / \  / ___/ ___|_   _|  _ \| | | |  \/  | '
@@ -43,18 +50,6 @@ echo '                        t.me/gasstrum     '
 sleep 20
 exit 0
 fi
-echo '============================================='
-echo '          Sila Tunggu sebentar '
-echo 'Process Update & Upgrade Sedang Dijalankan '
-echo '============================================='
-sleep 2
-apt update && apt upgrade -y
-clear
-echo '============================================='
-echo '      Process Update&Upgrade Selesai '
-echo '============================================='
-sleep 2
-clear
 echo '============================================='
 echo '        Process Seterusnya Sila Tunggu '
 echo '============================================='
