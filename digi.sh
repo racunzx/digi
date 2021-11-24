@@ -1,3 +1,51 @@
-z="
-";MBz='_/  ';MDz='b';XBz='ENU ';RBz='NAN ';fBz=': Ge';Lz='pt B';DCz='Day)';BDz='igi';yz='_ <|';FCz='e/Be';JDz=';;';iBz='0m"';TBz='"';pCz=' -p ';jz='_ \_';TCz='b 2g';QDz='3gb';kDz='MASU';bCz='1jam';fDz='x)';WDz='2gb';lDz='KKAN';uCz=' Opt';gBz='t SS';pBz='[0m"';vz=') | ';wCz=' [1-';uz=' / /';JBz='/   ';IDz='ie';Jz='Auto';ADz=' " d';ECz='(Liv';yCz=' 0]:';QBz='NGGA';qCz='"   ';MCz='t Bu';hCz=' SCR';OCz='(Nex';iDz=' " S';BCz='am 6';NCz='ndle';KDz='2)';NDz='3)';VCz='1har';EDz='gi i';jCz='0]\e';Hz=' "';WBz='IN M';KCz='m5 K';xBz='\e[0';eBz=';32m';qBz='3]\e';sz=' | \';mBz='50mb';aCz='ted ';cBz='[0m ';cz='_|  ';Ez='"\e[';JCz='am R';NBz='0m  ';dz='_ \|';Bz='r';Az='clea';fCz='NINS';DBz='_| |';Gz='====';HBz='_|_|';ABz='_  |';FBz='|___';ICz='6]\e';IBz=' \_\';Pz='   "';ZDz='mite';eCz=' | U';lCz='all ';OBz=' SPA';PCz='t On';GBz='_/|_';WCz='i)\e';Kz='scri';gCz='TALL';HCz='e[0m';VDz='7)';bz='_|| ';Tz='__  ';jBz='2]\e';iCz='IPT ';SBz='DIGI';kCz='inst';YBz='|  "';CCz='gb(5';nBz='(1da';dCz='ps)\';Wz='__ _';ez='_|_ ';PBz='M LA';LBz='__//';gDz='menu';rz='   |';BBz='___)';xz=' |__';jDz='ILA ';Vz='_ __';pz='_) |';LDz='150m';bDz='0)';Sz='  __';XDz='8)';mz=' _||';ZBz='1;31';Qz='  "';hz='/ _ ';EBz='/ / ';Oz='RN  ';CDz='case';mDz=' NUM';rDz='esac';wBz='day)';oz=' | |';YCz=': Un';ODz='500m';tz='\  |';dBz='\e[1';yBz='m"';YDz='unli';TDz='6)';LCz='redi';nDz='BER ';iz='\ / ';nz=' |  ';qDz='UL!!';bBz='1]\e';RCz='7]\e';oDz='YANG';QCz='ly)\';Zz='_   ';UCz='b(2x';Rz='92m ';rBz='am 5';sBz='00mb';vBz='GB(1';CBz=' |_|';Mz='y GA';Cz='echo';XCz='8]\e';Iz='    ';SDz='6gb';PDz='4)';Yz=' ___';Uz='____';xCz='8 or';pDz=' BET';sCz='ect ';oCz='read';UDz='rm5';lBz='am 1';mCz='Scri';vCz='ions';VBz='| MA';Dz=' -e ';aDz='d';SCz=': su';qz='  _|';az='/ __';DDz=' $di';aBz='m* [';kBz=': Sp';GCz='st)\';cCz='(3mb';tBz='4]\e';Fz='94m ';Xz='___ ';nCz='pt\e';hDz='*)';RDz='5)';KBz='/ \_';dDz='stal';Nz='SSTU';ZCz='limi';tCz='From';lz=' \| ';eDz='l';FDz='n';fz='  _/';wz='|__|';HDz='cook';oBz='y)\e';ACz='5]\e';rCz=' Sel';hBz='I\e[';cDz='unin';uBz='am 3';GDz='1)';gz='|   ';UBz='""';kz='\___';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Hz$z$Cz$Dz$Ez$Fz$Iz$Iz$Iz$Iz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Iz$Iz$Pz$z$Cz$Dz$Ez$Fz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Qz$z$Cz$Dz$Ez$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Wz$Uz$Yz$Zz$Sz$Zz$Xz$Uz$Zz$Qz$z$Cz$Dz$Ez$Rz$az$bz$Uz$az$cz$dz$Yz$ez$fz$Yz$gz$hz$iz$jz$Tz$gz$Qz$z$Cz$Dz$Ez$Rz$kz$lz$mz$nz$oz$pz$qz$rz$sz$Xz$tz$oz$oz$oz$uz$Iz$Hz$z$Cz$Dz$Ez$Rz$Yz$vz$wz$xz$cz$yz$xz$ABz$nz$BBz$oz$CBz$oz$DBz$EBz$Iz$Hz$z$Cz$Dz$Ez$Rz$FBz$GBz$Uz$kz$HBz$IBz$Uz$DBz$DBz$Uz$JBz$kz$KBz$LBz$MBz$Qz$z$Cz$Dz$Ez$NBz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Hz$z$Cz$Dz$Ez$Fz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Hz$z$Cz$Dz$Ez$Fz$Iz$Iz$Iz$Iz$Iz$OBz$PBz$QBz$RBz$SBz$Iz$TBz$z$Cz$Dz$Ez$Fz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Hz$z$Cz$Dz$Ez$NBz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Hz$z$Cz$Dz$UBz$z$Cz$Dz$Ez$Fz$Iz$Iz$Iz$Iz$Iz$Iz$VBz$WBz$XBz$YBz$z$Cz$Dz$UBz$z$Cz$Dz$Ez$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$z$Cz$Dz$Ez$ZBz$aBz$jBz$cBz$dBz$eBz$kBz$lBz$mBz$nBz$oBz$pBz$z$Cz$Dz$Ez$ZBz$aBz$qBz$cBz$dBz$eBz$kBz$rBz$sBz$nBz$oBz$pBz$z$Cz$Dz$Ez$ZBz$aBz$tBz$cBz$dBz$eBz$kBz$uBz$vBz$wBz$xBz$yBz$z$Cz$Dz$Ez$ZBz$aBz$ACz$cBz$dBz$eBz$kBz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$TBz$z$Cz$Dz$Ez$ZBz$aBz$ICz$cBz$dBz$eBz$kBz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$HCz$TBz$z$Cz$Dz$Ez$ZBz$aBz$RCz$cBz$dBz$eBz$SCz$TCz$UCz$VCz$WCz$pBz$z$Cz$Dz$Ez$ZBz$aBz$XCz$cBz$dBz$eBz$YCz$ZCz$aCz$bCz$cCz$dCz$HCz$TBz$z$Cz$Dz$UBz$z$Cz$Dz$Ez$Fz$Iz$Iz$Iz$Iz$Iz$eCz$fCz$gCz$hCz$iCz$gz$TBz$z$Cz$Dz$UBz$z$Cz$Dz$Ez$ZBz$aBz$jCz$cBz$dBz$eBz$YCz$kCz$lCz$mCz$nCz$pBz$z$Cz$Dz$UBz$z$Cz$Dz$UBz$z$oCz$pCz$qCz$Iz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$z$Cz$Dz$UBz$z$CDz$DDz$EDz$FDz$z$GDz$z$HDz$IDz$z$JDz$z$KDz$z$LDz$MDz$z$JDz$z$NDz$z$ODz$MDz$z$JDz$z$PDz$z$QDz$z$JDz$z$RDz$z$SDz$z$JDz$z$TDz$z$UDz$z$JDz$z$VDz$z$WDz$z$JDz$z$XDz$z$YDz$ZDz$aDz$z$JDz$z$bDz$z$cDz$dDz$eDz$z$JDz$z$fDz$z$gDz$z$JDz$z$hDz$z$Cz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$TBz$z$JDz$z$rDz"
+#!/bin/bash
+clear
+echo -e "\e[94m ============================================================ "
+echo -e "\e[94m                     Autoscript By GASSTURN             "
+echo -e "\e[94m ============================================================  "
+echo -e "\e[92m   ____  _____ ____ ____  _____ _____ ____     ___   ___ _____     "
+echo -e "\e[92m / ___|| ____/ ___|  _ \| ____|_   _/ ___|   / _ \ / _ \___  |     "
+echo -e "\e[92m \___ \|  _|| |   | |_) |  _|   | | \___ \  | | | | | | | / /     "
+echo -e "\e[92m  ___) | |__| |___|  _ <| |___  | |  ___) | | |_| | |_| |/ /      "
+echo -e "\e[92m |____/|_____\____|_| \_\_____| |_| |____/   \___/ \___//_/    "   
+echo -e "\e[0m                                                       "
+echo -e "\e[94m ============================================================ "
+echo -e "\e[94m                      SPAM LANGGANAN DIGI    "
+echo -e "\e[94m ============================================================ "
+echo -e "\e[0m                                                               "
+echo -e ""
+echo -e "\e[94m                         | MAIN MENU |  "
+echo -e ""
+echo -e "\e[1;31m* [1]\e[0m \e[1;32m: Get SSI\e[0m"
+echo -e "\e[1;31m* [2]\e[0m \e[1;32m: Spam 500mb(1day)\e[0m"
+echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Unlimited 1jam(3mbps)\e[0m"
+echo -e ""
+echo -e "\e[1;31m* [4]\e[0m \e[1;32m: Update Script\e[0m" 
+echo -e "\e[1;31m* [5]\e[0m \e[1;32m: Uninstall Script\e[0m"             
+echo -e ""
+echo -e ""
+read -p "        Select From Options [1-5 or x]: " digi
+echo -e ""
+case $digi in
+1)
+cookie
+;;
+2)
+500mb
+;;
+3)
+unlimited
+;;
+4)
+update
+;;
+5)
+uninstall
+;;
+x)
+menu
+;;
+*)
+echo " SILA MASUKKAN NUMBER YANG BETUL!!"
+;;
+esac
