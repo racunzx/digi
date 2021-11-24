@@ -65,8 +65,8 @@ cd /usr/bin
 wget -O digi "https://raw.githubusercontent.com/Gasstrum/digi/main/digi.sh"
 wget -O 500mb "https://raw.githubusercontent.com/Gasstrum/digi/main/500mb.sh"
 wget -O cookie "https://raw.githubusercontent.com/Gasstrum/digi/main/cookie.sh"
-wget -O cookie "https://raw.githubusercontent.com/Gasstrum/digi/main/update.sh"
-wget -O cookie "https://raw.githubusercontent.com/Gasstrum/digi/main/uninstall.sh"
+wget -O update "https://raw.githubusercontent.com/Gasstrum/digi/main/update.sh"
+wget -O uninstall "https://raw.githubusercontent.com/Gasstrum/digi/main/uninstall.sh"
 chmod +x digi
 chmod +x 500mb
 chmod +x cookie
