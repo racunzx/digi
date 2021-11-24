@@ -1,3 +1,52 @@
-z="
-";IFz='9175';RBz='serc';pBz='niah';sCz='loop';CDz='e';dCz=' Men';Tz='t"';GCz='    ';Bz='r';DFz='{';WCz='bung';MCz='idak';eDz=' '\''Ac';sEz='2B3f';QCz='Meng';qEz='6hUY';UEz='%241';lEz='EvHN';NEz='http';pEz='RWTA';uEz='zdQ9';qz='red=';bz='ct-v';pz='d"';PCz='kan ';MFz='ie":';bBz=' gre';Dz=' "${';yz='NC='\''';jEz='kcaO';JBz='IZIN';XDz='api/';OBz='/raw';ACz='um..';uCz=' loo';kEz='Rev9';oCz='read';PEz='2.1'\''';wDz='okie';LDz='l --';bEz='9C6D';mz='not ';bCz='am U';vBz='nggu';Gz='ne 0';eCz='dapa';Xz=' "$(';vCz='p';dEz=' sid';VFz='done';Kz=' "Yo';wz='e[0;';sBz='iben';BBz='MYIP';ECz=' ""';wEz='vdzm';fBz=' $MY';IEz='y'\'' \';vDz=' "Co';nCz=' 0';fDz='cept';OCz='enar';WBz='rum/';xBz='n Ga';EBz='-qO-';Nz='o ru';WDz='.my/';ABz='\e[0';rDz='icat';TBz='nt.c';hz=' the';Rz='t as';kDz='on'\'' ';BCz='.${N';Pz='is s';FFz='erId';xCz='in S';iz='n';BFz='--da';LFz='reeb';ICz='.   ';Mz='ed t';Vz=' 1';rBz='da D';NCz=' Dib';gCz=' Keb';ODz='POST';TFz='00"';DBz='get ';XCz='i Sa';YEz='3A9B';GEz='gi.c';Sz=' roo';SFz=' "0.';mCz='p 20';oBz='}Tah';RFz='"pri';tEz='6VgG';mEz='ddCU';AEz='e" \';Qz='crip';UBz='om/G';tBz='arka';YDz='addo';cz='irt)';fz='envz';UCz='ni! ';IDz='++))';hEz='_WDv';MDz='requ';cEz='4E0;';mBz='"${g';fEz='53A8';QBz='hubu';RCz='guna';BDz='ooki';FCz=' '\''  ';tCz=' : "';KCz='  An';uBz='n me';TCz='pt i';yEz='CGfS';Ez='EUID';ADz=' " c';KFz='"isF';Fz='}" -';JCz=''\''';PDz=' \';ez=' "op';cDz='--he';OEz='/3.1';HEz='om.m';IBz='p);';VEz='42BE';fCz='tkan';yBz='sstr';CFz='ta '\''';FEz='p.di';Zz='emd-';nz='supp';gEz='22K4';JFz='",';PBz='.git';NDz='est ';JEz=' '\''Us';Uz='exit';gDz=': ap';lDz='\';qCz='"Ber';QEz='--co';gz='" ];';XEz='BB3B';aBz='am |';nBz='reen';cCz='ntuk';GFz='": "';pCz=' -p ';rEz='g%25';yDz='d=$c';XBz='digi';cBz='p $M';ZEz='91F2';DCz='else';KDz=' cur';RDz='l ht';Lz='u ne';PFz='"for';aDz='ubsc';HFz='9000';mDz=' '\''Co';VBz='asst';gBz='IP =';OFz='se,';EDz='((i=';ZCz='i Te';UDz='app.';DEz='mydi';LCz='da T';QDz='--ur';NFz=' fal';uDz=''\'' \';GDz='=$lo';vEz='GlUZ';eEz='=s%2';MEz=': ok';aEz='EC9C';LBz='curl';iCz='  t.';WEz='649A';LEz='gent';VCz='  Hu';KBz='=$( ';CEz='st: ';lBz=' -e ';Wz='fi';dz='" ==';Jz='echo';aCz='legr';oEz='oiPh';TEz='ie=7';bDz='ribe';wCz='"Sal';ZDz='ns/s';Hz=' ]; ';YCz='ya d';jDz='n/js';iBz='IN ]';rz=''\''\e[';qBz='! An';qDz='appl';KEz='er-A';UFz='}'\''';Cz='if [';ZBz='n/sp';jBz='; th';xz='32m'\''';lz=' is ';jCz='me/g';Yz='syst';YBz='/mai';EEz='giap';kBz='en';rCz='apa ';SCz='Scri';Az='clea';tDz='json';FBz=' ipi';kCz='rum ';SDz='tps:';SBz='onte';pDz='pe: ';iDz='atio';iEz='AEEy';FDz='1;i<';sz='1;31';AFz='hkw'\''';nDz='nten';HDz='op;i';NBz='ps:/';hBz=' $IZ';dDz='ader';xEz='1u6A';sDz='ion/';DDz='for ';Oz='n th';BEz=' '\''Ho';vz='n='\''\';HCz='  ..';CCz='C}"';Iz='then';CBz='=$(w';hDz='plic';kz='enVZ';wBz='naka';SEz='Cook';tz='m'\''';az='dete';HBz='io/i';oDz='t-Ty';REz=' '\''dt';GBz='nfo.';xDz=': si';hCz='an! ';JDz='; do';uz='gree';lCz='slee';QFz='ce":';VDz='.com';dBz='YIP ';MBz=' htt';nEz='9KK.';eBz=')';TDz='//my';oz='orte';EFz='"off';jz=' "Op';yCz='SI :';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$z$Uz$Vz$z$Wz$z$Cz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$z$Jz$jz$kz$lz$mz$nz$oz$pz$z$Uz$Vz$z$Wz$z$qz$rz$sz$tz$z$uz$vz$wz$xz$z$yz$ABz$tz$z$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$z$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$z$Cz$fBz$gBz$hBz$iBz$jBz$kBz$z$Az$Bz$z$Jz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$z$DCz$z$Az$Bz$z$Jz$ECz$z$Jz$FCz$GCz$GCz$GCz$GCz$GCz$GCz$HCz$ICz$GCz$GCz$GCz$GCz$GCz$GCz$GCz$JCz$z$Jz$FCz$GCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$PCz$SCz$TCz$UCz$GCz$GCz$JCz$z$Jz$FCz$GCz$GCz$GCz$GCz$GCz$GCz$HCz$ICz$GCz$GCz$GCz$GCz$GCz$GCz$GCz$JCz$z$Jz$FCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$OCz$hCz$GCz$JCz$z$Jz$FCz$GCz$GCz$GCz$GCz$GCz$iCz$jCz$VBz$kCz$GCz$JCz$z$lCz$mCz$z$Uz$nCz$z$Wz$z$Az$Bz$z$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$z$oCz$pCz$wCz$xCz$yCz$ADz$BDz$CDz$z$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$z$QDz$RDz$SDz$TDz$XBz$UDz$XBz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$PDz$z$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$z$cDz$dDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$z$cDz$dDz$vDz$wDz$xDz$yDz$BDz$AEz$z$cDz$dDz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$z$cDz$dDz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$PDz$z$QEz$wDz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$PDz$z$BFz$CFz$DFz$z$EFz$FFz$GFz$HFz$IFz$JFz$z$KFz$LFz$MFz$NFz$OFz$z$PFz$QFz$NFz$OFz$z$RFz$QFz$SFz$TFz$z$UFz$z$lCz$mCz$z$VFz"
+#!/bin/bash
+
+clear
+if [ "${EUID}" -ne 0 ]; then
+		echo "You need to run this script as root"
+		exit 1
+fi
+if [ "$(systemd-detect-virt)" == "openvz" ]; then
+		echo "OpenVZ is not supported"
+		exit 1
+fi
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+MYIP=$(wget -qO- ipinfo.io/ip);
+IZIN=$( curl https://raw.githubusercontent.com/Gasstrum/digi/main/spam | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+clear
+echo -e "${green}Tahniah! Anda Dibenarkan menggunakan Gasstrum...${NC}"
+else
+clear
+echo ""
+echo '                            ...                               '
+echo '        Anda Tidak Dibenarkan Menggunakan Script ini!         '
+echo '                            ...                               '
+echo '    Hubungi Saya di Telegram Untuk Mendapatkan Kebenaran!     '
+echo '                        t.me/gasstrum     '
+sleep 20
+exit 0
+fi
+
+clear
+read -p "Berapa loop : " loop
+read -p "Salin SSI : " cookie
+
+# Send 500mb
+for ((i=1;i<=$loop;i++)); do curl --request POST \
+  --url https://mydigiapp.digi.com.my/api/addons/subscribe \
+  --header 'Accept: application/json' \
+  --header 'Content-Type: application/json' \
+  --header "Cookie: sid=$cookie" \
+  --header 'Host: mydigiapp.digi.com.my' \
+  --header 'User-Agent: okhttp/3.12.1' \
+  --cookie 'dtCookie=7%24142BE649ABB3B3A9B91F2EC9C9C6D4E0; sid=s%253A822K4_WDvAEEykcaORev9EvHNddCU9KK.oiPhRWTA6hUYg%252B3f6VgGzdQ9GlUZvdzm1u6ACGfShkw' \
+  --data '{
+  "offerId": "90009175",
+  "isFreebie": false,
+  "force": false,
+  "price": "0.00"
+}'
+sleep 20
+done
