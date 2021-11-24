@@ -19,9 +19,8 @@ echo -e ""
 echo -e "\e[1;31m* [1]\e[0m \e[1;32m: Get SSI\e[0m"
 echo -e "\e[1;31m* [2]\e[0m \e[1;32m: Spam 500mb(1day)\e[0m"
 echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Unlimited 1jam(3mbps)\e[0m"
-echo -e ""
-echo -e "\e[1;31m* [4]\e[0m \e[1;32m: Update Script\e[0m" 
-echo -e "\e[1;31m* [5]\e[0m \e[1;32m: Uninstall Script\e[0m"             
+echo -e "\e[1;31m* [4]\e[0m \e[1;32m: Uninstall Script\e[0m"
+echo -e "\e[1;31m* [5]\e[0m \e[1;32m: Update Script\e[0m"        
 echo -e ""
 echo -e ""
 read -p "        Select From Options [1-5 or x]: " digi
@@ -37,10 +36,10 @@ cookie
 unlimited
 ;;
 4)
-update
+uninstall
 ;;
 5)
-uninstall
+update
 ;;
 x)
 menu
