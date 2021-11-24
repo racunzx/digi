@@ -26,7 +26,7 @@ echo -e ""
 echo -e ""
 read -p "        Select From Options [1-2 or 0]: " digi
 echo -e ""
-case $digi in
+case $ digi in
 1)
 cookie
 ;;
