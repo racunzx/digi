@@ -2,18 +2,6 @@
 echo ''
 clear
 echo ''
-echo '============================================='
-echo '          Sila Tunggu sebentar '
-echo 'Process Update & Upgrade Sedang Dijalankan '
-echo '============================================='
-sleep 2
-apt update && apt upgrade -y
-clear
-echo '============================================='
-echo '      Process Update&Upgrade Selesai '
-echo '============================================='
-sleep 2
-clear
 echo '   ____  _____ ____ ____  _____ _____ ____     ___   ___ _____     '
 echo ' / ___|| ____/ ___|  _ \| ____|_   _/ ___|   / _ \ / _ \___  |     '
 echo ' \___ \|  _|| |   | |_) |  _|   | | \___ \  | | | | | | | / /     '
@@ -55,6 +43,18 @@ echo '                        t.me/gasstrum     '
 sleep 20
 exit 0
 fi
+echo '============================================='
+echo '          Sila Tunggu sebentar '
+echo 'Process Update & Upgrade Sedang Dijalankan '
+echo '============================================='
+sleep 2
+apt update && apt upgrade -y
+clear
+echo '============================================='
+echo '      Process Update&Upgrade Selesai '
+echo '============================================='
+sleep 2
+clear
 echo '============================================='
 echo '        Process Seterusnya Sila Tunggu '
 echo '============================================='
