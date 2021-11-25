@@ -18,12 +18,10 @@ echo -e ""
 echo -e "\e[1;31m* [1]\e[0m \e[1;32m: Get SSI\e[0m"
 echo -e "\e[1;31m* [2]\e[0m \e[1;32m: Spam 500mb(1day)\e[0m"
 echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Langganan Rm35 Unlimited Call&internet(3mbps)\e[0m"
+echo -e "\e[1;31m* [4]\e[0m \e[1;32m: Uninstall Script\e[0m"             
 echo -e ""
 echo -e ""
-echo -e "\e[1;31m* [0]\e[0m \e[1;32m: Uninstall Script\e[0m"             
-echo -e ""
-echo -e ""
-read -p "        Select From Options [1-3 or 0]: " digi
+read -p "        Select From Options [1-4 or x]: " digi
 echo -e ""
 case $digi in
 1)
@@ -35,7 +33,7 @@ cookie
 3)
 langganan
 ;;
-0)
+4)
 uninstall
 ;;
 x)
