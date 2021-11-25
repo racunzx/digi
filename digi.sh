@@ -1,3 +1,47 @@
-z="
-";LCz='cook';GCz='case';Kz='scri';pz='_) |';sBz='read';nBz=': Un';dz='_ \|';BBz='___)';NCz=';;';eCz='YANG';TCz='stal';cz='_|  ';Dz=' -e ';NBz='0m  ';FCz='igi';jBz='(1da';EBz='/ / ';Az='clea';tz='\  |';gz='|   ';XBz='1]\e';UBz='""';Hz=' "';CBz=' |_|';qBz='Scri';ZBz='\e[1';VCz='x)';DCz=' x]:';KCz='1)';Uz='____';aCz='MASU';QBz='NGGA';HCz=' $di';DBz='_| |';hBz='am 5';YCz=' " S';qz='  _|';Sz='  __';bBz=': Ge';xBz='From';BCz=' [1-';YBz='[0m ';Rz='92m ';UCz='l';CCz='3 or';kz='\___';rz='   |';fz='  _/';fCz=' BET';iz='\ / ';PBz='M LA';wBz='ect ';Fz='94m ';az='/ __';lBz='[0m"';Jz='Auto';JCz='n';uBz='"   ';bCz='KKAN';uz=' / /';yz='_ <|';Iz='    ';Vz='_ __';aBz=';32m';mBz='3]\e';tBz=' -p ';ECz=' " d';KBz='/ \_';ACz='ions';WCz='menu';SBz='DIGI';mz=' _||';VBz='1;31';iBz='00mb';eBz='0m"';hCz='esac';Xz='___ ';nz=' |  ';PCz='500m';RCz='3)';wz='|__|';yBz=' Opt';Ez='"\e[';cBz='t SS';QCz='b';pBz='all ';oBz='inst';dCz='BER ';Oz='RN  ';sz=' | \';OBz=' SPA';dBz='I\e[';rBz='pt\e';XCz='*)';Yz=' ___';gCz='UL!!';Nz='SSTU';Mz='y GA';OCz='2)';TBz='"';ABz='_  |';Qz='  "';vz=') | ';Pz='   "';bz='_|| ';Bz='r';fBz='2]\e';hz='/ _ ';LBz='__//';Gz='====';cCz=' NUM';Wz='__ _';xz=' |__';Lz='pt B';Cz='echo';WBz='m* [';Zz='_   ';ez='_|_ ';IBz=' \_\';SCz='unin';RBz='NAN ';kBz='y)\e';ICz='gi i';FBz='|___';lz=' \| ';JBz='/   ';vBz=' Sel';ZCz='ILA ';MBz='_/  ';oz=' | |';Tz='__  ';HBz='_|_|';gBz=': Sp';jz='_ \_';MCz='ie';GBz='_/|_';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Hz$z$Cz$Dz$Ez$Fz$Iz$Iz$Iz$Iz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Iz$Iz$Pz$z$Cz$Dz$Ez$Fz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Qz$z$Cz$Dz$Ez$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Wz$Uz$Yz$Zz$Sz$Zz$Xz$Uz$Zz$Qz$z$Cz$Dz$Ez$Rz$az$bz$Uz$az$cz$dz$Yz$ez$fz$Yz$gz$hz$iz$jz$Tz$gz$Qz$z$Cz$Dz$Ez$Rz$kz$lz$mz$nz$oz$pz$qz$rz$sz$Xz$tz$oz$oz$oz$uz$Iz$Hz$z$Cz$Dz$Ez$Rz$Yz$vz$wz$xz$cz$yz$xz$ABz$nz$BBz$oz$CBz$oz$DBz$EBz$Iz$Hz$z$Cz$Dz$Ez$Rz$FBz$GBz$Uz$kz$HBz$IBz$Uz$DBz$DBz$Uz$JBz$kz$KBz$LBz$MBz$Qz$z$Cz$Dz$Ez$NBz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Hz$z$Cz$Dz$Ez$Fz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Hz$z$Cz$Dz$Ez$Fz$Iz$Iz$Iz$Iz$Iz$OBz$PBz$QBz$RBz$SBz$Iz$TBz$z$Cz$Dz$Ez$Fz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Gz$Hz$z$Cz$Dz$Ez$NBz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Iz$Hz$z$Cz$Dz$UBz$z$Cz$Dz$Ez$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$z$Cz$Dz$Ez$VBz$WBz$fBz$YBz$ZBz$aBz$gBz$hBz$iBz$jBz$kBz$lBz$z$Cz$Dz$Ez$VBz$WBz$mBz$YBz$ZBz$aBz$nBz$oBz$pBz$qBz$rBz$lBz$z$Cz$Dz$UBz$z$Cz$Dz$UBz$z$sBz$tBz$uBz$Iz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$z$Cz$Dz$UBz$z$GCz$HCz$ICz$JCz$z$KCz$z$LCz$MCz$z$NCz$z$OCz$z$PCz$QCz$z$NCz$z$RCz$z$SCz$TCz$UCz$z$NCz$z$VCz$z$WCz$z$NCz$z$XCz$z$Cz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$TBz$z$NCz$z$hCz"
+#!/bin/bash
+clear
+echo -e "\e[94m ============================================================ "
+echo -e "\e[94m                     Autoscript By GASSTURN             "
+echo -e "\e[94m ============================================================  "
+echo -e "\e[92m   ____  _____ ____ ____  _____ _____ ____     ___   ___ _____     "
+echo -e "\e[92m / ___|| ____/ ___|  _ \| ____|_   _/ ___|   / _ \ / _ \___  |     "
+echo -e "\e[92m \___ \|  _|| |   | |_) |  _|   | | \___ \  | | | | | | | / /     "
+echo -e "\e[92m  ___) | |__| |___|  _ <| |___  | |  ___) | | |_| | |_| |/ /      "
+echo -e "\e[92m |____/|_____\____|_| \_\_____| |_| |____/   \___/ \___//_/    "   
+echo -e "\e[0m                                                       "
+echo -e "\e[94m ============================================================ "
+echo -e "\e[94m                      SPAM LANGGANAN DIGI    "
+echo -e "\e[94m ============================================================ "
+echo -e "\e[0m                                                               "
+echo -e ""
+echo -e ""
+echo -e "\e[1;31m* [1]\e[0m \e[1;32m: Get SSI\e[0m"
+echo -e "\e[1;31m* [2]\e[0m \e[1;32m: Spam 500mb(1day)\e[0m"
+echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Langganan Rm35 Unlimited Call&internet(3mbps)\e[0m"
+echo -e ""
+echo -e ""
+echo -e "\e[1;31m* [0]\e[0m \e[1;32m: Uninstall Script\e[0m"             
+echo -e ""
+echo -e ""
+read -p "        Select From Options [1-3 or 0]: " digi
+echo -e ""
+case $digi in
+1)
+cookie
+;;
+2)
+500mb
+;;
+3)
+langganan
+;;
+0)
+uninstall
+;;
+x)
+menu
+;;
+*)
+echo " SILA MASUKKAN NUMBER YANG BETUL!!"
+;;
+esac

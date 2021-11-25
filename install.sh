@@ -1,3 +1,72 @@
-z="
-";xDz='an! ';fFz='gith';kCz='.git';XEz='te &';kDz='ni! ';gFz='ubus';DEz=' '\''==';OFz='aw.g';cz=' '\'' \';XBz='p 5';iDz='Scri';pBz='exit';mDz='bung';kz='| \_';IFz='igi.';YCz='get ';sCz='/mai';vEz='//ra';JDz='}Tah';BDz='IP =';KEz='oces';sDz='ntuk';cDz='idak';iz=' _| ';uCz='am |';SDz='n Ga';Sz='|  _';PCz='m'\''';xEz='thub';gz='| |_';sBz=' "$(';lDz='  Hu';Az='echo';IEz='ntar';pFz='kie.';rDz='am U';SBz='  '\''';jDz='pt i';EGz='nsta';NDz='iben';VCz='\e[0';bCz='nfo.';aEz='grad';GFz='i/ma';YBz='if [';AGz='mb';Rz='___/';kEz='teru';VDz='.${N';HEz='sebe';wEz='w.gi';jFz='t.co';fEz='te&U';Wz='___|';BEz='p 20';aCz=' ipi';nDz='i Sa';BBz='___\';CBz='\_\_';Iz='_ __';NFz='://r';rCz='digi';hFz='erco';yDz='  t.';UFz='/Gas';gEz='eles';yFz=' 500';mz='| | ';rFz='stal';XDz='else';tz=' <| ';BGz=' coo';vCz=' gre';nBz=' roo';QEz='edan';Cz='clea';PDz='n me';yz=' '\'' |';cEz='Proc';YFz='b.sh';QFz='buse';Jz='__  ';lCz='hubu';FCz=' "Op';oDz='ya d';Hz='____';JCz='supp';Ez=' '\''  ';Oz=' '\''';sEz=' -O ';WFz='gi/m';cCz='io/i';Lz='    ';FEz='==='\''';pDz='i Te';WCz='MYIP';hCz=' htt';Nz='__ _';YDz='  ..';cBz='ne 0';uEz='tps:';BCz='envz';kBz='is s';wFz=' dig';HDz='"${g';oBz='t"';Bz=' '\'''\''';xz=' /  ';hBz='ed t';RCz='n='\''\';xBz='irt)';dFz='s://';VEz='apt ';vDz='tkan';KBz='stru';nFz='main';SCz='e[0;';SFz='tent';iFz='nten';dBz=' ]; ';yCz=')';CGz='kie';bBz='}" -';oz=''\''';Dz='r';ACz=' "op';dz='\|  ';Xz='   /';tBz='syst';Pz=' '\'' /';qEz='bin';uFz='chmo';lEz='snya';DBz='   \';LCz='d"';fBz=' "Yo';eDz='enar';cFz='http';fz='|   ';nEz='a Tu';FGz='ll';vFz='d +x';hEz='ai '\''';oFz='/coo';FDz='en';UCz='NC='\''';hz=') | ';SEz='jala';VFz='m/di';TEz='nkan';KDz='niah';xCz='YIP ';IDz='reen';fCz='=$( ';VBz='. '\''';Uz='|_  ';tCz='n/sp';iCz='ps:/';UBz='....';Gz='_  _';PEz='de S';gDz='Meng';DCz=' the';oCz='nt.c';WBz='slee';NCz=''\''\e[';Vz=' _/ ';IBz='gram';MDz='da D';eCz='IZIN';KFz='500m';ZFz='"';LBz='m @g';eEz='Upda';wBz='ct-v';MCz='red=';jz='  | ';gCz='curl';REz='g Di';aBz='EUID';jBz='n th';LDz='! An';qz=' | |';Qz='|| _';TFz='.com';GEz='Sila';XCz='=$(w';ZCz='-qO-';aFz='cook';oEz='cd /';LFz='b "h';pEz='usr/';uDz='dapa';tEz=' "ht';jEz='s Se';UEz='p 2';MFz='ttps';qCz='rum/';GDz=' -e ';rz='__| ';ZEz='t up';NBz='rum ';DFz='Gass';Kz='___ ';PFz='ithu';tFz='l.sh';GBz=' ""';fDz='kan ';yEz='user';QCz='gree';dEz='ess ';wDz=' Keb';kFz='m/Ga';QBz='5 Sa';PBz='ggu ';wz='| |/';qDz='legr';ODz='arka';ZBz=' "${';mBz='t as';FFz='/dig';jCz='/raw';XFz='ain/';WEz='upda';eBz='then';ABz='/|__';Tz=' \| ';wCz='p $M';Yz=' _ \';FBz='/   ';gBz='u ne';EBz='_//_';OEz='pgra';vBz='dete';AEz='me/g';BFz='ent.';nz='/ / ';Mz='   _';EEz='====';AFz='cont';KCz='orte';qBz=' 1';yBz='" ==';tDz=' Men';RDz='naka';mFz='igi/';mEz=' Sil';DDz='IN ]';bEz='e -y';NEz=' & U';qFz='unin';MBz='asst';lFz='um/d';HFz='in/d';sFz='l "h';ECz='n';RFz='rcon';OBz=' Tun';CFz='com/';Zz=' / _';rEz='wget';LEz='s Up';HCz=' is ';YEz='& ap';lz='__ \';JBz=' Gas';nCz='onte';lBz='crip';ADz=' $MY';Fz=' ___';dCz='p);';mCz='serc';OCz='1;31';iBz='o ru';UDz='um..';TBz=' '\'' .';ICz='not ';xFz='i';bFz='ie "';HBz='Tele';GCz='enVZ';DGz=' uni';CEz=' 0';dDz=' Dib';JEz=' '\''Pr';uBz='emd-';JFz='sh"';TDz='sstr';RBz='at! ';aDz='  An';CDz=' $IZ';pz='___)';vz='|_| ';CCz='" ];';MEz='date';hDz='guna';ez='_|| ';WDz='C}"';iEz='  Pr';EFz='trum';bDz='da T';eFz='raw.';sz='|___';EDz='; th';pCz='om/G';QDz='nggu';uz='__) ';TCz='32m'\''';bz='_  |';rBz='fi';az=' \__';ZDz='.   ';
-eval "$Az$Bz$z$Cz$Dz$z$Az$Bz$z$Az$Ez$Fz$Gz$Hz$Fz$Iz$Jz$Hz$Iz$Kz$Hz$Lz$Fz$Mz$Nz$Hz$Lz$Oz$z$Az$Pz$Fz$Qz$Rz$Fz$Sz$Tz$Hz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$Lz$Oz$z$Az$cz$Kz$dz$ez$fz$gz$hz$iz$jz$kz$lz$jz$mz$mz$mz$nz$Lz$oz$z$Az$Ez$pz$qz$rz$sz$Sz$tz$sz$jz$Sz$uz$mz$vz$gz$wz$xz$Lz$oz$z$Az$yz$Hz$ABz$BBz$Hz$vz$CBz$Hz$gz$gz$Rz$DBz$Rz$az$EBz$FBz$Oz$z$Az$GBz$z$Az$Ez$Lz$Lz$Lz$Lz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$Lz$Lz$Lz$Lz$Oz$z$Az$Bz$z$Az$Bz$z$Az$Ez$Lz$Lz$Lz$Lz$Lz$OBz$PBz$QBz$RBz$Lz$Lz$Lz$Lz$Lz$SBz$z$Az$TBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$VBz$z$WBz$XBz$z$Cz$Dz$z$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$z$Az$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$z$pBz$qBz$z$rBz$z$YBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$z$Az$FCz$GCz$HCz$ICz$JCz$KCz$LCz$z$pBz$qBz$z$rBz$z$MCz$NCz$OCz$PCz$z$QCz$RCz$SCz$TCz$z$UCz$VCz$PCz$z$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$z$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$MBz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$z$YBz$ADz$BDz$CDz$DDz$EDz$FDz$z$Cz$Dz$z$Az$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$z$WBz$XBz$z$XDz$z$Cz$Dz$z$Az$GBz$z$Az$Ez$Lz$Lz$Lz$Lz$Lz$Lz$YDz$ZDz$Lz$Lz$Lz$Lz$Lz$Lz$Lz$oz$z$Az$Ez$Lz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$fDz$iDz$jDz$kDz$Lz$Lz$oz$z$Az$Ez$Lz$Lz$Lz$Lz$Lz$Lz$YDz$ZDz$Lz$Lz$Lz$Lz$Lz$Lz$Lz$oz$z$Az$Ez$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$eDz$xDz$Lz$oz$z$Az$Ez$Lz$Lz$Lz$Lz$Lz$yDz$AEz$MBz$NBz$Lz$oz$z$WBz$BEz$z$pBz$CEz$z$rBz$z$Az$DEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$FEz$z$Az$Ez$Lz$Lz$GEz$OBz$PBz$HEz$IEz$Oz$z$Az$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$Oz$z$Az$DEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$FEz$z$WBz$UEz$z$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$z$Cz$Dz$z$Az$DEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$FEz$z$Az$Ez$Lz$cEz$dEz$eEz$fEz$OEz$PEz$gEz$hEz$z$Az$DEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$FEz$z$WBz$UEz$z$Cz$Dz$z$Az$DEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$FEz$z$Az$Ez$Lz$iEz$KEz$jEz$kEz$lEz$mEz$nEz$QDz$Oz$z$Az$DEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$EEz$FEz$z$WBz$UEz$z$oEz$pEz$qEz$z$rEz$sEz$rCz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$z$rEz$sEz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$KBz$VFz$WFz$XFz$KFz$YFz$ZFz$z$rEz$sEz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$jFz$kFz$TDz$lFz$mFz$nFz$oFz$pFz$JFz$z$rEz$sEz$qFz$rFz$sFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$KBz$VFz$WFz$XFz$qFz$rFz$tFz$ZFz$z$uFz$vFz$wFz$xFz$z$uFz$vFz$yFz$AGz$z$uFz$vFz$BGz$CGz$z$uFz$vFz$DGz$EGz$FGz"
+#!/bin/bash
+echo ''
+clear
+echo ''
+echo '   ____  _____ ____ ____  _____ _____ ____     ___   ___ _____     '
+echo ' / ___|| ____/ ___|  _ \| ____|_   _/ ___|   / _ \ / _ \___  |     '
+echo ' \___ \|  _|| |   | |_) |  _|   | | \___ \  | | | | | | | / /     '
+echo '  ___) | |__| |___|  _ <| |___  | |  ___) | | |_| | |_| |/ /      '
+echo ' |____/|_____\____|_| \_\_____| |_| |____/   \___/ \___//_/    '   
+echo ''
+echo '                  Telegram Gasstrum @gasstrum                  '
+echo ''
+echo ''
+echo '                       Tunggu 5 Saat!                       '
+echo ' .......................................................... '
+sleep 5
+clear
+if [ "${EUID}" -ne 0 ]; then
+		echo "You need to run this script as root"
+		exit 1
+fi
+if [ "$(systemd-detect-virt)" == "openvz" ]; then
+		echo "OpenVZ is not supported"
+		exit 1
+fi
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+MYIP=$(wget -qO- ipinfo.io/ip);
+IZIN=$( curl https://raw.githubusercontent.com/Gasstrum/digi/main/spam | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+clear
+echo -e "${green}Tahniah! Anda Dibenarkan menggunakan Gasstrum...${NC}"
+sleep 5
+else
+clear
+echo ""
+echo '                            ...                               '
+echo '        Anda Tidak Dibenarkan Menggunakan Script ini!         '
+echo '                            ...                               '
+echo '    Hubungi Saya di Telegram Untuk Mendapatkan Kebenaran!     '
+echo '                        t.me/gasstrum     '
+sleep 20
+exit 0
+fi
+echo '============================================='
+echo '          Sila Tunggu sebentar '
+echo 'Process Update & Upgrade Sedang Dijalankan '
+echo '============================================='
+sleep 2
+apt update && apt upgrade -y
+clear
+echo '============================================='
+echo '      Process Update&Upgrade Selesai '
+echo '============================================='
+sleep 2
+clear
+echo '============================================='
+echo '        Process Seterusnya Sila Tunggu '
+echo '============================================='
+sleep 2
+
+# download script
+cd /usr/bin
+wget -O digi "https://raw.githubusercontent.com/Gasstrum/digi/main/digi.sh"
+wget -O 500mb "https://raw.githubusercontent.com/Gasstrum/digi/main/500mb.sh"
+wget -O cookie "https://raw.githubusercontent.com/Gasstrum/digi/main/cookie.sh"
+wget -O langganan "https://raw.githubusercontent.com/Gasstrum/digi/main/langganan.sh"
+chmod +x digi
+chmod +x 500mb
+chmod +x cookie
+chmod +x langganan
