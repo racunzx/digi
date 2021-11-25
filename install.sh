@@ -69,4 +69,4 @@ wget -O langganan35 "https://raw.githubusercontent.com/Gasstrum/digi/main/langga
 chmod +x digi
 chmod +x 500mb
 chmod +x cookie
-chmod +x langganan
+chmod +x langganan35
