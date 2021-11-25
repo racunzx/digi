@@ -18,7 +18,7 @@ echo -e "\e[94m                         | MAIN MENU |  "
 echo -e ""
 echo -e "\e[1;31m* [1]\e[0m \e[1;32m: Get SSI\e[0m"
 echo -e "\e[1;31m* [2]\e[0m \e[1;32m: Spam 500mb(1day)\e[0m"
-echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Unlimited 1jam(3mbps)\e[0m"
+echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Langganan unlimited Rm35 (3mbps)\e[0m"
 echo -e ""
 echo -e "\e[94m                      | UNINSTALL SCRIPT |   "
 echo -e ""
@@ -35,7 +35,7 @@ cookie
 500mb
 ;;
 3)
-unlimited
+langganan35
 ;;
 0)
 uninstall

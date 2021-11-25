@@ -2,11 +2,11 @@
 echo ''
 clear
 echo ''
-echo '   ____  _____ ____ ____  _____ _____ ____     ___   ___ _____     '
-echo ' / ___|| ____/ ___|  _ \| ____|_   _/ ___|   / _ \ / _ \___  |     '
-echo ' \___ \|  _|| |   | |_) |  _|   | | \___ \  | | | | | | | / /     '
-echo '  ___) | |__| |___|  _ <| |___  | |  ___) | | |_| | |_| |/ /      '
-echo ' |____/|_____\____|_| \_\_____| |_| |____/   \___/ \___//_/    '   
+echo '       ____    _    ____ ____ _____ ____  _   _ __  __  '
+echo '      / ___|  / \  / ___/ ___|_   _|  _ \| | | |  \/  | '
+echo '     | |  _  / _ \ \___ \___ \ | | | |_) | | | | |\/| | '
+echo '     | |_| |/ ___ \ ___) |__) || | |  _ <| |_| | |  | | '
+echo '      \____/_/   \_\____/____/ |_| |_| \_\\___/|_|  |_| '
 echo ''
 echo '                  Telegram Gasstrum @gasstrum                  '
 echo ''
@@ -65,7 +65,7 @@ cd /usr/bin
 wget -O digi "https://raw.githubusercontent.com/Gasstrum/digi/main/digi.sh"
 wget -O 500mb "https://raw.githubusercontent.com/Gasstrum/digi/main/500mb.sh"
 wget -O cookie "https://raw.githubusercontent.com/Gasstrum/digi/main/cookie.sh"
-wget -O langganan "https://raw.githubusercontent.com/Gasstrum/digi/main/langganan.sh"
+wget -O langganan35 "https://raw.githubusercontent.com/Gasstrum/digi/main/langganan35.sh"
 chmod +x digi
 chmod +x 500mb
 chmod +x cookie
