@@ -32,7 +32,7 @@ fi
 clear
 read -p "Salin SSI : " cookie
 
-# Send langganan
+# Send langganan35
 curl --request POST \
   --url https://mydigiapp.digi.com.my/api/addons/subscribe \
   --header 'Accept: application/json' \
@@ -51,4 +51,4 @@ curl --request POST \
 echo ""
 echo ""
 echo ""
-echo "Successfull Subs langgnan 35 unlimited to $diginum"
+echo "Successfull Subs langganan 35 unlimited to $diginum"
