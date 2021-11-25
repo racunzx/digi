@@ -14,18 +14,12 @@ echo -e "\e[94m                      SPAM LANGGANAN DIGI    "
 echo -e "\e[94m ============================================================ "
 echo -e "\e[0m                                                               "
 echo -e ""
-echo -e "\e[94m                         | MAIN MENU |  "
-echo -e ""
 echo -e "\e[1;31m* [1]\e[0m \e[1;32m: Get SSI\e[0m"
 echo -e "\e[1;31m* [2]\e[0m \e[1;32m: Spam 500mb(1day)\e[0m"
-echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Langganan unlimited Rm35 (3mbps)\e[0m"
-echo -e ""
-echo -e "\e[94m                      | UNINSTALL SCRIPT |   "
-echo -e ""
-echo -e "\e[1;31m* [0]\e[0m \e[1;32m: Uninstall Script\e[0m"             
+echo -e "\e[1;31m* [3]\e[0m \e[1;32m: Uninstall Script\e[0m"             
 echo -e ""
 echo -e ""
-read -p "        Select From Options [1-3 or 0]: " digi
+read -p "        Select From Options [1-3 or x]: " digi
 echo -e ""
 case $digi in
 1)
